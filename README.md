@@ -1,11 +1,11 @@
 # ProjectTaskCenter
-下周计划(第六周:2018-11-12至2018-11-18)
+下周计划(第七周:2018-11-19至2018-11-25)
 
 ​        1、继续构建fabric-ca server和client端（当前责任人：“輪迴”）
 
-​        2、周报专用配图（当前责任人：“晓安”）
+​        2、张锐和Jack（海皮）可以提供云主机，后续跟进（当前责任人：张锐、Jack（海皮）、郭立冬）
 
-​        3、周报wiki专属页面（当前责任人：郭立冬）
+​        3、搭建社区链blockchain-explorer（当前责任人：open）
 
 ​        4、征求更多捐献节点、更多社区成员参与调试和开发（当前责任人：open）
 
@@ -29,12 +29,14 @@
 
 ​        14、落实“竹潭”参与test-testnet调试的结果（当前责任人：“竹潭”）
 
-​        15、落实夏樊贡献的AWS快速部署模板（当前责任人：open）
+​        15、关注社区问题，查找maillist、rocketchat、WeChat、Stack Overflow 内容，对于有可能在社区链上也会遇到的问题，将问题在社区链环境下复现，记录解决办法，整理到GitHub issue上。（当前责任人：everyone）
 
-​        16、落实“ping40”参与test-testnet调试的结果（当前责任人：“ping40”）
+​        16、社区内讨论融资事务（当前责任人：everyone）
 
-​        17、落实双周例会所需要的wiki页面、zoom推广等工作（当前责任人：“郭立冬”）
+​        17、社区成员在融资文件上提供认可签名（当前责任人：everyone）
 
-​        18、落实“黄河”参与test-testnet调试的结果（当前责任人：“黄河”）
+​        18、Project Task Center项目添加社区成员GitHub ID和微信账号的对应表（当前责任人：everyone）
 
-​        19、将本期小目标记录在Project Task Center（当前责任人：郭立冬）
+​        19、社区成员熟悉Zoom，已熟悉的在issue上备注说明（当前责任人：例会参会者）
+
+​        20、将本期小目标记录在Project Task Center（当前责任人：郭立冬）
